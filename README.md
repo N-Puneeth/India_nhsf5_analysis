@@ -1,38 +1,38 @@
-## NFHS-5 Data Analysis Report
+## 📊 NFHS-5 Data Analysis Report
 📌 Overview
 
 This project analyzes National Family Health Survey (NFHS-5) data to uncover stories about education, fertility, child health, women’s empowerment, and lifestyle trends across Indian states. The goal is to use data analytics and visualization to show how different factors are interconnected, and how policies can create impact.
 
 🌍 Key Insights   
-1. Education – The Foundation of Change   
+1. 🎓 Education – The Foundation of Change   
 
 Kerala & Delhi lead in literacy and schooling.   
 
 Bihar, UP, and Jharkhand lag behind, especially for women.             
 ➡️ Education acts as the master key: better education → lower fertility, healthier children, empowered women.
 
-2. Fertility & Family Planning                
+2. 👨‍👩‍👧 Fertility & Family Planning                
                  
 Fertility has dropped nationally but remains high in Northern states.                
             
 Southern states show lower fertility and higher adoption of family planning.          
 ➡️ Where women are educated, they make informed choices about family size.
 
-3. Child Health & Nutrition
+3.🧒🍎💉 Child Health & Nutrition
 
 Vaccination rates are improving, but malnutrition and stunting persist.   
                 
 Strong link between maternal education and child health.             
 ➡️ A mother’s education is the child’s nutrition.
 
-4. Women’s Empowerment   
+4. 👩‍🦱✨ Women’s Empowerment   
     
 Southern & North-Eastern states show stronger empowerment.   
    
 Empowerment correlates with better fertility, child survival, and lifestyle outcomes.    
 ➡️ Empowerment is not just rights—it delivers results.   
 
-5. Lifestyle & Emerging Trends   
+5. 🏃🥗🩺 Lifestyle & Emerging Trends   
 
 Urban, educated populations face obesity & hypertension.   
     
