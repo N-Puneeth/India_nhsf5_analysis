@@ -1,4 +1,4 @@
-## NFHS-5 Data Storytelling Report
+## NFHS-5 Data Analysis Report
 📌 Overview
 
 This project analyzes National Family Health Survey (NFHS-5) data to uncover stories about education, fertility, child health, women’s empowerment, and lifestyle trends across Indian states. The goal is to use data analytics and visualization to show how different factors are interconnected, and how policies can create impact.
